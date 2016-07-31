@@ -1,0 +1,3 @@
+app/shared/tooltip.js
+app/shared/position.js
+tests/lib/handlebars.min.js
