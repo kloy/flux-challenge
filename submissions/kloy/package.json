@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "@cycle/rxjs-run": "^3.0.3",
+    "lodash": "^4.14.1",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
+    "recompose": "^0.20.2",
     "rxjs": "^5.0.0-beta.10"
   },
   "scripts": {
